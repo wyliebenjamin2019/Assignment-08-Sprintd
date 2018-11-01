@@ -1,0 +1,24 @@
+"C:\Program Files\Java\jdk-10.0.2\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\lib\idea_rt.jar=51956:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2018.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\bwyli\IdeaProjects\Sprintd\out\production\Sprintd Main
+With 8 developers working a 3 week sprint with 30 hrs/wk, the work capacity level would be at 218.06%
+With 9 developers working a 3 week sprint with 30 hrs/wk, the work capacity level would be at 193.83%
+With 10 developers working a 3 week sprint with 30 hrs/wk, the work capacity level would be at 174.44%
+With 11 developers working a 3 week sprint with 30 hrs/wk, the work capacity level would be at 158.59%
+With 8 developers working a 4 week sprint with 30 hrs/wk, the work capacity level would be at 163.54%
+With 8 developers working a 5 week sprint with 30 hrs/wk, the work capacity level would be at 130.83%
+With 8 developers working a 6 week sprint with 30 hrs/wk, the work capacity level would be at 109.03%
+With 8 developers working a 3 week sprint with 35 hrs/wk, the work capacity level would be at 186.90%
+With 9 developers working a 3 week sprint with 35 hrs/wk, the work capacity level would be at 166.14%
+With 10 developers working a 3 week sprint with 35 hrs/wk, the work capacity level would be at 149.52%
+With 11 developers working a 3 week sprint with 35 hrs/wk, the work capacity level would be at 135.93%
+With 8 developers working a 4 week sprint with 35 hrs/wk, the work capacity level would be at 140.18%
+With 8 developers working a 5 week sprint with 35 hrs/wk, the work capacity level would be at 112.14%
+With 8 developers working a 6 week sprint with 35 hrs/wk, the work capacity level would be at 93.45%
+With 8 developers working a 3 week sprint with 40 hrs/wk, the work capacity level would be at 163.54%
+With 9 developers working a 3 week sprint with 40 hrs/wk, the work capacity level would be at 145.37%
+With 10 developers working a 3 week sprint with 40 hrs/wk, the work capacity level would be at 130.83%
+With 11 developers working a 3 week sprint with 40 hrs/wk, the work capacity level would be at 118.94%
+With 8 developers working a 4 week sprint with 40 hrs/wk, the work capacity level would be at 122.66%
+With 8 developers working a 5 week sprint with 40 hrs/wk, the work capacity level would be at 98.13%
+With 8 developers working a 6 week sprint with 40 hrs/wk, the work capacity level would be at 81.77%
+
+Process finished with exit code 0
