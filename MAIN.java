@@ -1,4 +1,9 @@
-       calcCap(8, 3, 30);
+public class Main {
+
+    public static double Effort;
+    public static void main(String[] args) {
+        Effort = 1570;
+        calcCap(8, 3, 30);
         calcCap(9, 3, 30);
         calcCap(10, 3, 30);
         calcCap(11, 3, 30);
